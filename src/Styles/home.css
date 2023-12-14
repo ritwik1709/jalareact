@@ -1,0 +1,32 @@
+h1{
+    font-size: 54px;
+    text-align: center;
+}
+
+.footer{
+    height: 3rem;
+    background-color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-top: 88vh;
+}
+.navbar-div-btn{
+    display: flex;
+    gap: 10px;
+}
+.home-info{
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.home-info >div{
+    background-color: white;
+    width: 400px;
+    padding: 32px;
+    border-radius: 9px;
+}
